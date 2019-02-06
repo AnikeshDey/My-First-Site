@@ -1,0 +1,20 @@
+body{
+  background-color:#ebf0f6;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #23a393;
+  border-width:7px;
+  width:3%;
+}
+h1{
+  color:#66BFBF;
+  font-family: "Comic Sans MS";
+}
+h3{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
